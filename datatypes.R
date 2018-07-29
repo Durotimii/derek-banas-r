@@ -1,0 +1,6 @@
+print(class(4))
+print(class(4L))
+print(class(T))
+print(class(1 + 4i))
+print(class("Sample"))
+print(class(charToRaw("Sample")))
